@@ -14,6 +14,8 @@ After cloning, run src/Launcher.java to start. Everything is preconfigured.
 Small amount of code it contains implements a simple database of good Photo Spots,
 which uses google maps to browse and edit them.
 
+Здесь был Лёша!
+
 Or you can follow how this all have been created by pulling various branches
 into your own branch in this order:
 - start - empty project
